@@ -1,4 +1,4 @@
-package Assignment20
+package Assignment19
 
 def input = "madam"
 def isPalindrome = true

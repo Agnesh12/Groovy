@@ -1,4 +1,4 @@
-package Assignment20
+package Assignment19
 
 def number = 17;
 def check = 0;

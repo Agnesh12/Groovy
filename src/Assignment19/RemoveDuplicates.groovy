@@ -1,4 +1,4 @@
-package Assignment20
+package Assignment19
 
 def list = [1, 2, 2, 3, 4, 4, 5]
 def result = []
